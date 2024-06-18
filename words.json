@@ -949,13 +949,13 @@
     "occlude": "block or stop up; cover",
     "pacify": "bring peace to or calm someone down",
     "paragon": "a model of excellence or perfection",
-    "patronize": ["treat with an apparent kindness that is condescending","be a regular customer of a store or other establishment"],
+    "patronize": ["Treat in a way that is apparently kind or helpful but that betrays a feeling of superiority","be a regular customer of a store or other establishment"],
     "penurious": "extremely poor or stingy",
     "piquant": "stimulating to the senses; engaging; charming",
     "rampant": "unrestrained or unchecked, usually in a negative manner",
-    "remote": "not likely to happen",
+    "remote": ["Situated far from the main centers of population","distant","having very little connection with or relationship to","not likely to happen"],
     "reprobate": "a person who is immoral or who lacks principles",
-    "turbid": ["(of water) muddy or opaque due to suspended particles","unclear; confused; obscure"],
-    "turgid" : ["swollen or bloated","overly complex and difficult to understand"],
-    "vacuous": "lacking intelligence or thought"
+    "turbid": ["(Of a liquid) cloudy, opaque, or thick with suspended matter","confused or obscure in meaning or effect.","unclear; confused; obscure"],
+    "turgid" : ["swollen or bloated","Swollen and distended or congested","overly complex and difficult to understand"],
+    "vacuous": ["Having or showing a lack of thought or intelligence","mindless"]
 }
