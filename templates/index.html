@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Masked Meanings</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Masked Meanings</h1>
+        <ul class="word-list">
+            {% for word, meaning in words.items() %}
+            <li class="word-item" data-word="{{ word }}">
+                <span class="word">{{ word }}</span>
+                <button class="reveal-button" onclick="revealMeaning('{{ word }}')"><i class="fas fa-eye"></i> Reveal Meaning</button>
+                <div class="meaning" style="display: none;">
+                    {% if meaning is iterable and not string %}
+                        <ul>
+                        {% for m in meaning %}
+                            <li>{{ m }}</li>
+                        {% endfor %}
+                        </ul>
+                    {% else %}
+                        {{ meaning }}
+                    {% endif %}
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <script>
+        function revealMeaning(word) {
+            fetch(`/reveal/${word}`)
+                .then(response => response.json())
+                .then(data => {
+                    const wordItem = document.querySelector(`[data-word="${word}"]`);
+                    const revealButton = wordItem.querySelector('.reveal-button');
+                    const meaning = wordItem.querySelector('.meaning');
+                    meaning.innerHTML = Array.isArray(data.meaning) ? `<ul>${data.meaning.map(m => `<li>${m}</li>`).join('')}</ul>` : data.meaning;
+                    meaning.style.display = 'block';
+                    revealButton.style.display = 'none';
+                });
+        }
+    </script>
+</body>
+</html>
