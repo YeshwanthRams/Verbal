@@ -15,6 +15,7 @@ body {
     background: #161616;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
     border-radius: 8px;
+    position: relative; /* Added for positioning the quiz button */
 }
 
 /* Header */
@@ -23,6 +24,23 @@ h1 {
     font-size: 2em;
     margin-bottom: 20px;
     color: #BB86FC;
+}
+
+/* Quiz Button */
+#show-quiz-btn {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    z-index: 10;
+}
+
+/* Quiz Section */
+#quiz-section {
+    background-color: #1E1E1E;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 /* Word Item */
