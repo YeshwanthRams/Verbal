@@ -31,7 +31,7 @@
             <li class="list-group-item word-item d-flex flex-column" data-word="{{ word }}">
                 <div class="d-flex justify-content-between align-items-center w-100" onclick="revealExamples('{{ word }}')">
                     <span class="word">{{ word }}</span>
-                    <button class="btn reveal-button ms-3 {% if stats[word]['correct'] > stats[word]['wrong'] %}btn-success{% elif stats[word]['correct'] < stats[word]['wrong'] %}btn-danger{% else %}btn-dark{% endif %}" onclick="revealMeaning('{{ word }}', this, event)">
+                    <button class="btn reveal-button ms-3 {% if stats[word]['correct'] == 0 and stats[word]['wrong'] == 0 %}btn-dark{% elif stats[word]['correct'] == stats[word]['wrong'] and stats[word]['correct'] > 0 %}btn-warning{% elif stats[word]['correct'] > stats[word]['wrong'] %}btn-success{% else %}btn-danger{% endif %}" onclick="revealMeaning('{{ word }}', this, event)">
                         <i class="fas fa-eye"></i> Reveal Meaning
                     </button>
                 </div>
@@ -125,15 +125,18 @@
 
                 const wordItem = document.querySelector(`[data-word="${currentWord}"]`);
                 const revealButton = wordItem.querySelector('.reveal-button');
-                if (data.stats.correct > data.stats.wrong) {
-                    revealButton.classList.remove('btn-dark', 'btn-danger');
-                    revealButton.classList.add('btn-success');
-                } else if (data.stats.correct < data.stats.wrong) {
-                    revealButton.classList.remove('btn-dark', 'btn-success');
-                    revealButton.classList.add('btn-danger');
-                } else {
-                    revealButton.classList.remove('btn-success', 'btn-danger');
+                if (data.stats.correct === 0 && data.stats.wrong === 0) {
+                    revealButton.classList.remove('btn-success', 'btn-danger', 'btn-warning');
                     revealButton.classList.add('btn-dark');
+                } else if (data.stats.correct === data.stats.wrong && data.stats.correct > 0) {
+                    revealButton.classList.remove('btn-dark', 'btn-success', 'btn-danger');
+                    revealButton.classList.add('btn-warning');
+                } else if (data.stats.correct > data.stats.wrong) {
+                    revealButton.classList.remove('btn-dark', 'btn-danger', 'btn-warning');
+                    revealButton.classList.add('btn-success');
+                } else {
+                    revealButton.classList.remove('btn-dark', 'btn-success', 'btn-warning');
+                    revealButton.classList.add('btn-danger');
                 }
             });
         }
