@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Word Meanings and Quiz</title>
+    <title>Meanings</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
@@ -12,26 +12,28 @@
     <div class="container mt-5">
         <button id="show-quiz-btn" class="btn btn-primary">Show Quiz</button>
 
-        <h1 class="text-center text-primary">Word Meanings and Quiz</h1>
+        <h1 class="text-center text-primary">Meanings</h1>
         
         <div id="quiz-section" class="mb-5" style="display: none;">
             <h2 class="text-center mb-4">Quiz</h2>
             <div id="quiz-container" class="text-center">
                 <h3 id="quiz-word" class="mb-3"></h3>
                 <div id="quiz-options" class="d-grid gap-2"></div>
+                <button id="idk-button" class="btn btn-secondary mt-2">I don't know</button>
                 <p id="quiz-result" class="mt-3"></p>
                 <p id="quiz-stats" class="mt-3"></p>
                 <button id="next-question" class="btn btn-primary mt-3" style="display: none;">Next Question</button>
             </div>
         </div>
 
-        <h2 class="text-center mb-4">Word List</h2>
         <ul class="list-group">
             {% for word, meaning in words.items() %}
             <li class="list-group-item word-item d-flex flex-column" data-word="{{ word }}">
                 <div class="d-flex justify-content-between align-items-center w-100" onclick="revealExamples('{{ word }}')">
                     <span class="word">{{ word }}</span>
-                    <button class="btn btn-dark reveal-button ms-3" onclick="revealMeaning('{{ word }}', this, event)"><i class="fas fa-eye"></i> Reveal Meaning</button>
+                    <button class="btn reveal-button ms-3 {% if stats[word]['correct'] > stats[word]['wrong'] %}btn-success{% elif stats[word]['correct'] < stats[word]['wrong'] %}btn-danger{% else %}btn-dark{% endif %}" onclick="revealMeaning('{{ word }}', this, event)">
+                        <i class="fas fa-eye"></i> Reveal Meaning
+                    </button>
                 </div>
                 <div class="examples mt-2 w-100" style="display: none;"></div>
             </li>
@@ -89,6 +91,7 @@
                     document.getElementById('quiz-result').textContent = '';
                     document.getElementById('quiz-stats').textContent = '';
                     document.getElementById('next-question').style.display = 'none';
+                    document.getElementById('idk-button').style.display = 'block';
                 });
         }
 
@@ -117,11 +120,26 @@
                 }
                 document.getElementById('quiz-stats').textContent = `Correct: ${data.stats.correct}, Wrong: ${data.stats.wrong}`;
                 document.getElementById('next-question').style.display = 'inline-block';
+                document.getElementById('idk-button').style.display = 'none';
                 isFirstTry = false;
+
+                const wordItem = document.querySelector(`[data-word="${currentWord}"]`);
+                const revealButton = wordItem.querySelector('.reveal-button');
+                if (data.stats.correct > data.stats.wrong) {
+                    revealButton.classList.remove('btn-dark', 'btn-danger');
+                    revealButton.classList.add('btn-success');
+                } else if (data.stats.correct < data.stats.wrong) {
+                    revealButton.classList.remove('btn-dark', 'btn-success');
+                    revealButton.classList.add('btn-danger');
+                } else {
+                    revealButton.classList.remove('btn-success', 'btn-danger');
+                    revealButton.classList.add('btn-dark');
+                }
             });
         }
 
         document.getElementById('next-question').addEventListener('click', loadQuizQuestion);
+        document.getElementById('idk-button').addEventListener('click', () => checkAnswer(-1));
 
         document.getElementById('show-quiz-btn').addEventListener('click', function() {
             const quizSection = document.getElementById('quiz-section');

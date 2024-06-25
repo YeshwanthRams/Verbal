@@ -5,25 +5,22 @@ import os
 
 app = Flask(__name__)
 
-# Load the words and their meanings from the JSON file
 with open('meanings.json') as f:
     words = json.load(f)
 
-# Load the examples from the JSON file
 with open('examples.json') as f:
     examples = json.load(f)
 
-# Load or initialize the quiz stats
-quiz_stats_file = 'quiz_stats.json'
+quiz_stats_file = 'stats.json'
 if os.path.exists(quiz_stats_file):
     with open(quiz_stats_file) as f:
-        quiz_stats = json.load(f)
+        stats = json.load(f)
 else:
-    quiz_stats = {word: {"correct": 0, "wrong": 0} for word in words}
+    stats = {word: {"correct": 0, "wrong": 0} for word in words}
 
 @app.route('/')
 def index():
-    return render_template('index.html', words=words)
+    return render_template('index.html', words=words, stats=stats)
 
 @app.route('/reveal/<word>')
 def reveal(word):
@@ -70,19 +67,19 @@ def check_answer():
     
     if is_first_try:
         if is_correct:
-            quiz_stats[word]['correct'] += 1
+            stats[word]['correct'] += 1
         else:
-            quiz_stats[word]['wrong'] += 1
+            stats[word]['wrong'] += 1
         
         # Save updated stats to file
-        with open(quiz_stats_file, 'w') as f:
-            json.dump(quiz_stats, f)
+        with open('stats.json', 'w') as f:
+            json.dump(stats, f)
     
     return jsonify({
         'is_correct': is_correct,
         'correct_meaning': correct_meaning,
         'example': example,
-        'stats': quiz_stats[word]
+        'stats': stats[word]
     })
 
 if __name__ == '__main__':
