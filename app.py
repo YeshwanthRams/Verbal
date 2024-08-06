@@ -5,11 +5,15 @@ import os
 
 app = Flask(__name__)
 
-with open('meanings.json') as f:
-    words = json.load(f)
+with open('groups.json') as f:
+    word_groups = json.load(f)
 
 with open('examples.json') as f:
     examples = json.load(f)
+
+words = {}
+for group, group_words in word_groups.items():
+    words.update(group_words)
 
 quiz_stats_file = 'stats.json'
 if os.path.exists(quiz_stats_file):
@@ -20,7 +24,7 @@ else:
 
 @app.route('/')
 def index():
-    return render_template('index.html', words=words, stats=stats)
+    return render_template('index.html', words=words, stats=stats, group_count=len(word_groups))
 
 @app.route('/reveal/<word>')
 def reveal(word):
@@ -34,14 +38,23 @@ def get_examples(word):
 
 @app.route('/quiz')
 def quiz():
-    word_list = list(words.keys())
+    start_group = int(request.args.get('start', 1))
+    end_group = int(request.args.get('end', len(word_groups)))
+    
+    # Get words from the selected range of groups
+    selected_words = {}
+    for i, (group, group_words) in enumerate(word_groups.items(), 1):
+        if start_group <= i <= end_group:
+            selected_words.update(group_words)
+    
+    word_list = list(selected_words.keys())
     question_word = random.choice(word_list)
-    correct_meaning = words[question_word]
+    correct_meaning = selected_words[question_word]
     options = [correct_meaning]
     
     while len(options) < 4:
         random_word = random.choice(word_list)
-        random_meaning = words[random_word]
+        random_meaning = selected_words[random_word]
         if random_meaning not in options:
             options.append(random_meaning)
     

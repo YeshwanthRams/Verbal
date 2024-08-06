@@ -1,0 +1,1445 @@
+{
+  "Group 1": {
+    "abound": "exist in large numbers or amounts",
+    "amorphous": [
+      "lacking a definite shape or form",
+      "lacking structure",
+      "unclear"
+    ],
+    "austere": [
+      "severe and strict in manner or attitude",
+      "unadorned and simple in style or design",
+      "extremely sparse or limited in amenity or luxury"
+    ],
+    "belie": ["Give a false impression of something", "mask"],
+    "capricious": [
+      "given to sudden and unaccountable changes of mood or behavior",
+      "impulsive and unpredictable"
+    ],
+    "cerebral": "relating to the brain",
+    "congenial": [
+      "Having a pleasant and friendly disposition; being agreeable and pleasing in nature",
+      "(of a person) likable and friendly, often due to shared interests"
+    ],
+    "conspicuous": [
+      "easily seen or noticed",
+      "attracting attention",
+      "obvious"
+    ],
+    "cursory": [
+      "hasty and superficial",
+      "acting with excessive speed or insufficient consideration"
+    ],
+    "daunting": "Intimidatingly difficult or challenging",
+    "deify": "to regard or treat someone or something as a god",
+    "didactic": "instructive or intending to teach or convey information",
+    "disseminate": [
+      "to spread or disperse something, such as seeds or information, widely",
+      "to distribute or circulate something, such as news or ideas, to a lot of people"
+    ],
+    "feasible": ["capable of being done or accomplished", "doable"],
+    "flout": [
+      "to deliberately disobey or disregard a rule, law, or convention",
+      "break a rule without guilt",
+      "to show contempt for something"
+    ],
+    "homogeneous": [
+      "Composed of similar parts",
+      "Uniform in composition or character"
+    ],
+    "humdrum": ["dull and uninteresting", "lacking variety or excitement"],
+    "insipid": "lacking strong flavor or interest",
+    "loquacious": ["Talkative", "Chatty", "Voluble"],
+    "misanthropic": "having or showing a dislike or distrust of mankind",
+    "misnomer": "a wrong or inaccurate name or designation",
+    "negligent": [
+      "failing to take proper care over something",
+      "careless and irresponsible"
+    ],
+    "obsequious": [
+      "trying too hard to please someone in a way that is not sincere",
+      "excessively eager to help or obey",
+      "very polite and attentive in a way that is not genuine"
+    ],
+    "placate": [
+      "to pacify or soothe someone's feelings",
+      "to appease or mollify someone"
+    ],
+    "proclivity": [
+      "a natural tendency or inclination",
+      "a fondness or liking for something"
+    ],
+    "puerile": ["childish", "immature", "trivial"],
+    "quixotic": [
+      "Excessively visionary",
+      "impulsive and often rashly idealistic"
+    ],
+    "spendthrift": [
+      "a person who spends money freely and excessively",
+      "one who spends profusely and wastefully"
+    ],
+    "taciturn": ["unwilling to talk much", "speaking little"],
+    "wary": "feeling or showing caution because of possible dangers or problems"
+  },
+  "Group 2": {
+    "brazen": ["impudent", "unashamedly bold", "made of brass"],
+    "contrite": [
+      "feeling or expressing remorse or repentance for a wrong committed",
+      "having or showing a sorrowful and repentant attitude"
+    ],
+    "craven": ["cowardly", "Lacking bravery"],
+    "decorum": ["A polite and dignified manner", "proper behaviour"],
+    "demur": [
+      "to show reluctance or hesitation",
+      "to express doubts or objections",
+      "to delay or put off a decision or action"
+    ],
+    "incredulous": ["unable or unwilling to believe something", "doubtful"],
+    "adulterate": [
+      "to make something impure by adding inferior or improper ingredients",
+      "to corrupt or debase something, such as a person's morals, by introducing undesirable elements"
+    ],
+    "advocate": [
+      "a person who publicly supports or recommends a particular cause or policy",
+      "support or be in favor of something"
+    ],
+    "aggrandize": [
+      "to increase the power, wealth, or importance of someone or something",
+      "to make something seem greater or more impressive than it really is"
+    ],
+    "alacrity": [
+      "brisk and cheerful readiness",
+      "eagerness to do something",
+      "speed or promptness of action"
+    ],
+    "ambivalent": [
+      "having mixed or contradictory feelings about something or someone",
+      "unsure",
+      "unable to decide between two or more things"
+    ],
+    "ameliorate": ["to make something better or more tolerable"],
+    "amenable": "Willing to accept or agree to something",
+    "anachronistic": [
+      "something or someone that is out of place in terms of time or context",
+      "belonging to a different time or era"
+    ],
+    "audacious": [
+      "fearlessly daring or impudent",
+      "recklessly bold or courageous"
+    ],
+    "avaricious": "Having or showing an extreme greed for wealth or material gain",
+    "banal": [
+      "lacking originality or dull and uninspiring",
+      "commonplace and uninteresting"
+    ],
+    "benign": "gentle, mild, or kind",
+    "calumny": [
+      "a false and malicious statement designed to injure a person's reputation",
+      "slander or defamation"
+    ],
+    "candid": [
+      "frank and honest in speech or expression",
+      "unbiased and impartial",
+      "relating to or used in candid photography"
+    ],
+    "castigate": ["scold someone harshly", "to criticize or punish severely"],
+    "caustic": [
+      "(of speech) sarcastic or ironic in tone or manner",
+      "(of checmical) able to burn or corrode living tissue",
+      "(of chemical) having a corrosive or erosive effect"
+    ],
+    "construe": [
+      "to interpret or understand the meaning of something",
+      "to analyze or explain the significance of something"
+    ],
+    "convoluted": [
+      "Difficult to understand or follow",
+      "very complicated or intricate",
+      "twisted or turned in a complicated way"
+    ],
+    "covet": "to feel a strong desire to possess something, especially something belonging to someone else",
+    "deft": [
+      "skilled and precise in physical movement or action",
+      "clever and quick in taking advantage of an opportunity"
+    ],
+    "derivative": [
+      "something which is based on another source",
+      "based on someone else's work (often used in a negative sense)"
+    ],
+    "desiccate": "to dry or preserve something by removing the moisture from it",
+    "diatribe": "a bitter and abusive verbal attack",
+    "ingenuous": [
+      "innocent and youthful; lacking cunning or worldliness",
+      "naive and lacking experience"
+    ]
+  },
+  "Group 3": {
+    "abate": [
+      "to become less strong or severe",
+      "to reduce something in amount, intensity or degree",
+      "to officially forgive someone for a crime or offense"
+    ],
+    "abjure": [
+      "to renounce or reject something formally or solemnly",
+      "to give up or refrain from something"
+    ],
+    "arduous": "requiring great effort or endurance",
+    "assuage": [
+      "to make someone or something feel better or more calm",
+      "to satisfy or calm a desire or feeling"
+    ],
+    "cacophonous": [
+      "having an unpleasant or discordant sound",
+      "lacking harmony or coherence"
+    ],
+    "canonize": [
+      "to officially declare someone to be a saint",
+      "treat like a god; deeply venerate"
+    ],
+    "cogent": [
+      "clear and logical in expression or thought",
+      "convincing and persuasive because of sound judgment and evidence"
+    ],
+    "desultory": [
+      "lacking a plan or purpose",
+      "jumbling together different things or ideas in a confusing way",
+      "moving from one thing to another without a clear plan or direction"
+    ],
+    "diffident": "lacking confidence in one's own ability, worth, or fitness; timid or hesitant",
+    "prodigal": [
+      "wastefully extravagant",
+      "having or giving something on a lavish scale"
+    ],
+    "anomalous": [
+      "deviating from what is normal or expected",
+      "unusual or unexpected"
+    ],
+    "antipathy": [
+      "a feeling of intense dislike or hostility",
+      "opposition or contrast"
+    ],
+    "arcane": ["Mysterious or obscure", "Known or understood by few; esoteric"],
+    "artless": "Lacking skill or guile; innocent and sincere",
+    "ascetic": [
+      "practicing self-denial or austerity, especially as a form of spiritual discipline",
+      "characterized by a severe or stark simplicity, often to the point of self-mortification"
+    ],
+    "betray": [
+      "to give away or expose the trust of someone",
+      "to be disloyal or unfaithful to someone or something"
+    ],
+    "bucolic": [
+      "charmingly simple and serene in a rustic way",
+      "associated with tranquil rural life"
+    ],
+    "burgeon": ["to grow or develop quickly", "to begin to grow or develop"],
+    "censure": [
+      "express severe disapproval of",
+      "officially rebuke or condemn"
+    ],
+    "chicanery": [
+      "Deceptive or tricky practices, typically involving subterfuge or sophistry to achieve a legal or political end",
+      "trickery or deception"
+    ],
+    "coalesce": [
+      "come together and merge into a single entity or unit",
+      "to unite or combine into a cohesive whole",
+      "to become or come into being"
+    ],
+    "compelling": [
+      "highly attractive and interesting",
+      "forcefully persuasive",
+      "able to capture and hold one's attention"
+    ],
+    "contend": [
+      "struggle or compete for something",
+      "assert or maintain a claim or position",
+      "to argue or dispute something"
+    ],
+    "copious": ["abundant", "plentiful", "liberal", "amply supplied"],
+    "cosmopolitan": [
+      "belonging to all parts of the world",
+      "having or showing a wide range of cultural interests and knowledge",
+      "relating to or characteristic of a city, especially in being sophisticated or worldly-wise"
+    ],
+    "deference": "A feeling or show of respect towards someone or something",
+    "dilatory": "tending to delay or procrastinate",
+    "equivocate": [
+      "to use ambiguous or unclear expressions in order to avoid committing oneself or to mislead",
+      "to be intentionally vague or ambiguous"
+    ],
+    "polarize": [
+      "to divide or split people into two opposing groups",
+      "to cause people to have strongly opposed views or opinions",
+      "to make light or other forms of radiation vibrate in a particular direction"
+    ],
+    "verbose": "using or containing too many words"
+  },
+  "Group 4": {
+    "approbation": [
+      "official approval or sanction",
+      "an expression of warm approval or admiration"
+    ],
+    "ephemeral": ["lasts for a very short time", "transitory"],
+    "garrulous": "talkative",
+    "incendiary": "tending to stir up strife or turmoil",
+    "inimical": ["hostile", "adverse", "opposed"],
+    "polemical": "controversial or disputatious",
+    "profundity": [
+      "the quality of being profound; depth of insight or wisdom",
+      "the quality of being intense or extreme",
+      "the state of being far down or situated at a great depth"
+    ],
+    "prudent": "having or showing careful thought and good judgment",
+    "recondite": ["difficult to understand; obscure", "hidden or concealed"],
+    "tranquil": "free from disturbance or turmoil",
+    "vacillate": [
+      "to hesitate in making a decision",
+      "to swing back and forth uncertainly",
+      "to be indecisive or wavering in opinion or action"
+    ],
+    "abstain": [
+      "to choose not to do something or to not participate in an activity",
+      "to restrain oneself from doing or enjoying something"
+    ],
+    "cherish": [
+      "to hold dear",
+      "to feel or show affection for",
+      "to care for someone or something in a very loving and protective way"
+    ],
+    "corroborate": [
+      "to confirm or support something with additional evidence or information",
+      "to make a statement or claim more certain or credible by providing additional evidence or testimony"
+    ],
+    "disparate": [
+      "fundamentally different or distinct in kind",
+      "lacking harmony or consistency"
+    ],
+    "emulate": "to imitate or follow the example of someone or something",
+    "enervate": "to weaken or deprive of strength or energy",
+    "fervid": [
+      "extremely enthusiastic or passionate",
+      "glowing with intense heat or feeling"
+    ],
+    "intimate": [
+      "closely personal or private",
+      "of or relating to the innermost nature of something",
+      "marked by warm friendship or close acquaintance"
+    ],
+    "invigorate": "to give strength or energy to someone or something",
+    "mitigate": "to make something less severe or unpleasant",
+    "obsolete": "no longer produced or used because something better has been invented",
+    "opaque": "Not able to be seen through; not transparent",
+    "paradigmatic": "Relating to or serving as a model or example",
+    "pedantic": [
+      "excessively concerned with minor details and rules",
+      "fussy about trivial matters"
+    ],
+    "placid": ["peaceful", "serene", "calm", "tranquil"],
+    "precipitate": [
+      "to cause something to happen suddenly or unexpectedly",
+      "to separate or be separated from a solution as a solid",
+      "to hasten or bring about something suddenly or unexpectedly"
+    ],
+    "prophetic": "having or showing the ability to predict what will happen in the future",
+    "punctilious": [
+      "minded of or concerned with minor details and rules",
+      "showing great attention to detail; meticulous"
+    ],
+    "scrupulous": [
+      "having or showing a strong sense of moral principles",
+      "meticulous and precise in performance or attention to details"
+    ]
+  },
+  "Group 15": {
+    "alienate": [
+      "to make someone feel isolated or distant",
+      "to cause someone to become unfriendly or hostile"
+    ],
+    "apathy": "a lack of interest, enthusiasm, or concern",
+    "apropos": [
+      "very appropriate or relevant",
+      "concerning or related to a particular topic"
+    ],
+    "apt": "having a natural ability or talent",
+    "cloak": "a loose outer garment or a cover for concealing something",
+    "consensus": "a collective opinion or decision reached by a group",
+    "distort": [
+      "alter the original shape or appearance of something",
+      "give a misleading or unfair account of something"
+    ],
+    "divergent": [
+      "tending to move apart",
+      "different or distinct in nature or direction"
+    ],
+    "elated": ["feeling extremely happy or proud", "exhilarated", "euphoric"],
+    "enchant": [
+      "to cast a magical spell on someone or something",
+      "to delight or fascinate someone"
+    ],
+    "entrenched": [
+      "firmly established and difficult to change",
+      "fixed or set in a particular position or location"
+    ],
+    "exotic": [
+      "originating in or characteristic of a distant foreign country",
+      "extravagantly or fancifully unusual or exciting"
+    ],
+    "exploitative": [
+      "tending to exploit or take unfair advantage of a person or situation for one's own benefit",
+      "using something or someone selfishly or unfairly for one's own advantage"
+    ],
+    "foreseeable": "able to be anticipated or predicted",
+    "forsake": [
+      "to abandon or desert",
+      "to give up or renounce something",
+      "to leave someone or something behind, often in a hurried or cowardly manner"
+    ],
+    "gratify": "to give pleasure or satisfaction to",
+    "heed": "pay attention to; take notice of",
+    "judicious": [
+      "having, showing, or done with good judgment and sense",
+      "wise and careful in decisions or actions"
+    ],
+    "lucid": [
+      "clear in thought or expression",
+      "easy to understand; intelligible",
+      "giving off light, typically in the form of rays or a glow"
+    ],
+    "pertinent": ["relevant", "applicable", "connected"],
+    "propriety": [
+      "the quality of being proper and socially acceptable",
+      "the right to own or use something",
+      "conformity to conventional standards of behavior or morals"
+    ],
+    "scintillating": "brilliantly bright or radiant",
+    "sensational": [
+      "extremely good or exciting",
+      "causing a lot of public interest and excitement",
+      "exaggerated or unrealistic, especially in a way that is intended to attract attention"
+    ],
+    "sophisticated": [
+      "complex or cultured, highly developed, refined and subtle"
+    ],
+    "strife": [
+      "angry or bitter conflict",
+      "a struggle or fight, especially for power or control"
+    ],
+    "understated": [
+      "modest and restrained in expression or behavior",
+      "not making a strong or flashy impression"
+    ],
+    "unscrupulous": [
+      "having or showing no moral principles, not honest or fair",
+      "willing to do anything to get what you want, even if it involves doing something wrong"
+    ],
+    "veracity": "the quality of being true or accurate",
+    "virulent": "Having or showing a strong desire to harm or destroy",
+    "volatile": [
+      "tending to change rapidly and unpredictably",
+      "having a high evaporation rate",
+      "changeable or unstable in a sudden or violent way"
+    ]
+  },
+  "Group 14": {
+    "acquiesce": [
+      "to accept or agree to something calmly or quietly, even if you do not want to",
+      "to accept or concede reluctantly or begrudgingly"
+    ],
+    "adroit": "Having or showing skill, cleverness, or quickness of mind or hand",
+    "amend": [
+      "to make changes to something, typically a document or a law, in order to improve it or correct mistakes",
+      "to put right or improve something that is wrong or imperfect"
+    ],
+    "animus": "A feeling of bitter anger or ill will",
+    "apologist": "a person who apologizes or makes excuses for someone or something",
+    "astringent": "having a sharp, harsh, or biting quality",
+    "collaborate": "to work jointly with others or together especially in an intellectual endeavor",
+    "competent": "having sufficient knowledge, skill, or experience to perform a task or job successfully",
+    "correlate": "to find a mutual relationship or connection between two or more things",
+    "deride": "to laugh at or make fun of in a scornful or contemptuous manner",
+    "dictate": [
+      "to say or utter words so as to be recorded or transcribed by someone",
+      "to prescribe or order something authoritatively",
+      "to have a strong influence or control over something"
+    ],
+    "discreet": [
+      "careful and unobtrusive in one's actions or nature",
+      "modest and unpretentious",
+      "separate and distinct from others"
+    ],
+    "divorced": ["officially ended a marriage", "separated from a spouse"],
+    "elitist": "a person who believes that they are part of an elite group of people who are superior to others, often in terms of intelligence, social status, or wealth",
+    "exacting": [
+      "demanding a great deal of effort or precision",
+      "requiring a great deal of skill or care"
+    ],
+    "flummoxed": [
+      "completely puzzled or perplexed",
+      "utterly confused or disconcerted"
+    ],
+    "fruitful": "producing a large amount of fruit or a large amount of something useful",
+    "inborn": "existing from birth; natural or innate",
+    "polymath": ["a person of wide-ranging knowledge or learning"],
+    "reticent": "not speaking much or willingly",
+    "stringent": [
+      "severely exact or demanding in standards",
+      "strictly and strongly enforced",
+      "marked by rigor and sternness"
+    ],
+    "subservient": [
+      "too eager to obey or please people in authority",
+      "having or showing a willingness to obey someone in charge"
+    ],
+    "surreptitious": "done secretly or without being noticed",
+    "tantalizing": "extremely appealing or attractive",
+    "tantamount": [
+      "equivalent in value or meaning",
+      "amounting to the same thing"
+    ],
+    "torpor": "A state of physical or mental inactivity, characterized by a lack of responsiveness to stimuli, often accompanied by a decrease in bodily functions, such as lowered body temperature, heart rate, and respiration rate.",
+    "trenchant": [
+      "sharp or incisive in thought, expression, or criticism",
+      "having a keen cutting edge or point",
+      "penetrating or discerning"
+    ],
+    "umbrage": [
+      "a feeling of pique or resentment, especially about something felt to be unfair",
+      "shade or shadow, especially as cast by trees or other objects",
+      "a vague or indirect expression of resentment or displeasure"
+    ],
+    "versatile": [
+      "able to adapt or be used for many different purposes",
+      "having a wide range of skills or abilities"
+    ],
+    "wayward": [
+      "difficult to control or predict",
+      "willfully stubborn or contrary"
+    ]
+  },
+  "Group 13": {
+    "affinity": "A natural attraction or feeling of kinship",
+    "altruistic": "Showing a desire to help other people, especially by doing actions that do not benefit oneself",
+    "baroque": [
+      "relating to or characterized by a flamboyant and intricate style of architecture, decoration, and art that originated in Europe in the 17th century",
+      "excessively ornate or elaborate"
+    ],
+    "byzantine": [
+      "relating to or characteristic of the Byzantine Empire",
+      "excessively complex or complicated",
+      "devious or cunning"
+    ],
+    "compromise": [
+      "a settlement of differences by mutual concessions",
+      "a concession to something perceived as undesirable"
+    ],
+    "conciliatory": [
+      "intending or intended to placate or pacify",
+      "having a disposition to reconcile or appease"
+    ],
+    "countenance": "the expression on someone's face, especially when it shows their thoughts or feelings",
+    "covert": ["secret", "hidden", "not openly acknowledged or displayed"],
+    "credible": "Able to be believed; convincing",
+    "diffuse": [
+      "spread or dispersed widely",
+      "not concentrated or focused",
+      "lacking clearness or distinctness",
+      "soft and scattered (of light)"
+    ],
+    "documentary": "a film, television, or radio program that provides a factual record or report on a particular subject",
+    "exhaustive": "completely thorough and detailed",
+    "exhilarating": "extremely exciting or pleasantly thrilling",
+    "extraneous": [
+      "not belonging to or outside the thing being considered",
+      "not essential or necessary"
+    ],
+    "fervor": [
+      "intense and passionate enthusiasm",
+      "strong excitement or eagerness"
+    ],
+    "futile": [
+      "having no chance of success",
+      "incapable of producing a desired effect"
+    ],
+    "illusory": "producing a false or misleading impression of reality",
+    "invidious": [
+      "tending to arouse envy or resentment",
+      "spiteful or malicious"
+    ],
+    "lethargic": "lacking energy or enthusiasm; feeling or showing a lack of interest or effort",
+    "metaphorical": [
+      "_figurative or symbolic, beyond the literal meaning",
+      "relating to or using metaphors"
+    ],
+    "mimic": [
+      "to imitate or copy the actions, speech, or behavior of someone or something",
+      "an act of imitating or copying someone or something"
+    ],
+    "numinous": [
+      "having a strong emotional or spiritual quality",
+      "mysteriously powerful or impressive"
+    ],
+    "obscure": [
+      "not well-known or difficult to understand",
+      "not clear or bright",
+      "remote or inaccessible"
+    ],
+    "overt": "openly shown or declared; not secret or hidden",
+    "pellucid": [
+      " transparently clear",
+      "easy to understand; clear in meaning"
+    ],
+    "perpetuate": [
+      "to continue or prolong something, especially a problem or difficulty",
+      "to cause something to continue or be repeated over a long period of time"
+    ],
+    "rational": [
+      "having the ability to reason",
+      "based on reason",
+      "guided by logic or sound judgment"
+    ],
+    "scathing": "bitterly severe or caustic in criticism or condemnation",
+    "subtle": [
+      "delicately complex or nuanced",
+      "difficult to perceive or understand; faint or slight"
+    ],
+    "superficial": [
+      "existing or occurring at the surface",
+      "not thorough or profound",
+      "concerned with outward appearance rather than inward significance"
+    ]
+  },
+  "Group 12": {
+    "acrimonious": ["bitterly quarrelsome", "marked by bitter ill will"],
+    "belligerent": ["hostile and aggressive", "warlike or fond of fighting"],
+    "beneficent": "Doing good or causing good to be done; having a beneficial or charitable influence",
+    "canny": [
+      "having or showing a lot of experience and good judgment",
+      "careful and wise in one's actions or decisions",
+      "skillful or clever in dealing with others"
+    ],
+    "cavalier": [
+      "a gallant or chivalrous man",
+      "a military cavalier, especially a Royalist during the English Civil War",
+      "careless or irresponsible, especially in a cheerful or confident way"
+    ],
+    "distressed": ["very unhappy or upset", "damaged or worn out"],
+    "dwindling": [
+      "becoming smaller or less in amount or degree",
+      "gradually decreasing in size, amount, or intensity"
+    ],
+    "eclipse": [
+      "a blocking or darkening of light, typically by the intervention of a celestial body between a light source and a detector",
+      "a temporary or permanent interruption of the normal functioning of something"
+    ],
+    "encyclopedic": [
+      "relating to or resembling an encyclopedia",
+      "having or showing a very wide range of knowledge"
+    ],
+    "exacerbate": "to make a problem, situation, or feeling worse",
+    "exasperated": [
+      "extremely frustrated or annoyed",
+      "utterly disappointed or disheartened"
+    ],
+    "fungible": "Able to be replaced or substituted with something else of equal value",
+    "hackneyed": ["overused", "trite", "cliched"],
+    "incongruous": [
+      "not harmonious in character",
+      "lacking coherence or consistency",
+      "out of place or not fitting in"
+    ],
+    "interchangeable": [
+      "able to be exchanged for something else of the same type",
+      "able to be used in place of each other"
+    ],
+    "laconic": "using few words; concise",
+    "lucrative": "producing a great deal of profit",
+    "magisterial": "having or showing a strong sense of authority",
+    "onerous": ["burdensome", "oppressive", " troublessome"],
+    "opprobrium": "harsh criticism or censure",
+    "parsimonious": [
+      "excessively frugal",
+      "unwilling to spend money or use resources"
+    ],
+    "peripheral": [
+      "relating to or situated on the edge or periphery of something",
+      "of or relating to the peripheral nervous system",
+      "not of central or main importance; secondary or subordinate"
+    ],
+    "provocative": [
+      "causing annoyance or anger",
+      "sexually attractive or stimulating",
+      "intended to provoke a reaction"
+    ],
+    "renounce": [
+      "to give up or surrender something, typically formally or officially",
+      "to disown or repudiate something or someone"
+    ],
+    "tempestuous": ["stormy", "turbulent", "violent", "fiercely agitated"],
+    "tenable": [
+      "defensible or justifiable",
+      "able to be maintained or upheld",
+      "able to be lived in or occupied"
+    ],
+    "transgression": [
+      "an act that goes against a law, rule, or code of conduct",
+      "a violation of a moral principle or a sin"
+    ],
+    "urbane": "Having a polished and refined manner, often as a result of education or experience",
+    "verisimilitude": "the quality of being believable or realistic",
+    "vitiate": [
+      "to make something less effective or valuable",
+      "to spoil or corrupt something",
+      "to make something invalid or void"
+    ]
+  },
+  "Group 11": {
+    "abhor": "to feel intense dislike or hatred towards",
+    "boisterous": ["noisily energetic and cheerful", "rough and violent"],
+    "chivalrous": [
+      "having or showing the qualities of a knight, especially those of honor, courtesy, and gallantry",
+      "showing or relating to the traditional code of conduct of medieval knights, especially in terms of honor, courtesy, and chivalry towards women"
+    ],
+    "churlish": [
+      "rude and unceremonious in manner",
+      "having a bad disposition, surly",
+      "unbecomingly mean or stingy"
+    ],
+    "clandestine": ["secret", "hidden", "illicit", "unofficial"],
+    "complacent": [
+      "feeling or showing pleasure or contentment, but lacking a sense of urgency or drive to improve",
+      "self-satisfied or smug"
+    ],
+    "cumbersome": [
+      "difficult to handle or manage because of its size or weight",
+      "causing delay or hindrance"
+    ],
+    "debilitating": "causing someone or something to become weaker or less effective",
+    "deliberate": [
+      "done consciously and intentionally",
+      "carefully thought out and planned"
+    ],
+    "droll": ["amusing in a quiet, subtle way", "quaintly humorous or ironic"],
+    "eccentric": [
+      "unconventional and quirky in behavior or manner",
+      "not having a regular or usual shape"
+    ],
+    "fractious": [
+      " inclined to cause trouble or dispute",
+      "easily broken or split",
+      "unruly or rebellious"
+    ],
+    "limpid": [
+      "clear and transparent in style or meaning",
+      "clearly understood or expressed",
+      "easy to perceive; easily understood; clear in mind"
+    ],
+    "mawkish": ["excessively sentimental", "overly emotional", "sickly sweet"],
+    "obeisance": "a act of showing respect or obedience, especially by bowing or kneeling",
+    "ostentatious": [
+      "characterized by or given to pretentious or excessive display",
+      "intended to attract notice and impress others"
+    ],
+    "panacea": "a solution or remedy for all problems or difficulties",
+    "perfunctory": [
+      "done in a superficial or mechanical way, lacking enthusiasm or interest",
+      "hasty and superficial"
+    ],
+    "perilous": ["full of danger", "risky", "hazardous"],
+    "pervasive": "widespread and existing throughout something",
+    "preclude": "to prevent or make something impossible",
+    "predilection": [
+      "a natural inclination or tendency",
+      "a preferential liking for something"
+    ],
+    "rapacious": [
+      "given to taking everything available, especially in a greedy and selfish way",
+      "having a strong and selfish desire to possess something"
+    ],
+    "relish": [
+      "a person's appreciation or enjoyment of something",
+      "a flavorful ingredient added to food to enhance its flavor"
+    ],
+    "satirical": [
+      "using or characterized by irony in order to mock or convey contempt",
+      "humorous or ridiculing, often by exaggerating a characteristic for comic effect"
+    ],
+    "sham": "something that is not what it appears to be; a pretense or a fake",
+    "skirt": "A garment worn by women and girls that hangs from the waist and covers the legs.",
+    "sluggish": ["moving or reacting slowly", "lazy", " inactive"],
+    "spartan": [
+      "a native or inhabitant of ancient Sparta",
+      "simple, austere, and rigorous in one's habits and surroundings",
+      "brief and to the point in expression or manner"
+    ],
+    "truculent": "fierce, savage, or menacing"
+  },
+  "Group 10": {
+    "acumen": [
+      "sharpness of mind",
+      "quickness of wit",
+      "keenness of discernment"
+    ],
+    "antithesis": "a person or thing that is the direct opposite of another",
+    "ascribe": [
+      "to regard something as being caused by or resulting from something",
+      "to attribute or credit something to someone or something else"
+    ],
+    "befuddled": [
+      "completely puzzled or perplexed",
+      "utterly confused or disoriented",
+      "having one's mental faculties clouded or dulled"
+    ],
+    "eschew": "to avoid or abstain from something",
+    "esoteric": "intended for or understood by a select group, especially because of being highly specialized or obscure",
+    "evasive": [
+      "deliberately avoiding or evading something, especially a difficult or unpleasant situation",
+      "not giving a direct or straight answer, intentionally vague or ambiguous"
+    ],
+    "exculpate": "to clear from blame or guilt",
+    "expedite": [
+      "to speed up or hurry the progress of something",
+      "to accelerate or facilitate a process"
+    ],
+    "fastidious": [
+      "meticulous and demanding in one's standards",
+      "having a strong and delicate sense of taste"
+    ],
+    "feign": ["pretend", "simulate", "fabricate"],
+    "furtive": [
+      "Having or showing a sneaking or secretive nature",
+      "Taken or done secretly or quickly to avoid being seen or noticed"
+    ],
+    "hamper": [
+      "a basket or container with a cover, used for carrying or storing food or other items",
+      "to hinder or impede something or someone"
+    ],
+    "indispensable": [
+      "extremely necessary",
+      "cannot be done without",
+      "absolutely required"
+    ],
+    "lament": "an expression of sorrow or grief",
+    "myopic": [
+      "having or showing a lack of discernment or long-range perspective in one's targets, priorities, or aspirations",
+      "near-sighted, unable to see distant objects clearly"
+    ],
+    "nonchalant": [
+      "having or showing a casual and relaxed attitude, not bothered or worried"
+    ],
+    "partial": [
+      "not complete or total",
+      "favouring one side or party over another",
+      "incomplete or imperfect"
+    ],
+    "pensive": "engaged in, marked by, or expressing thoughtfulness or contemplation",
+    "portend": [
+      "to be a sign or warning of something that is going to happen",
+      "to indicate or suggest something is going to happen"
+    ],
+    "provincial": [
+      "relating to or characteristic of a province",
+      "narrow in outlook or experience; parochial"
+    ],
+    "rudimentary": "very basic or primitive",
+    "salutary": [
+      "having a beneficial or healthy effect",
+      "favorable or advantageous"
+    ],
+    "sever": [
+      "to cut off or separate completely",
+      "to terminate or end suddenly",
+      "to make something separate or distinct"
+    ],
+    "slight": [
+      "small in amount or degree",
+      "not serious or severe",
+      "lacking strength or power"
+    ],
+    "somnolent": "drowsy",
+    "stoic": "indifferent to pleasure or pain",
+    "supersede": "to take the place of something or someone, and to be used or accepted instead",
+    "tout": [
+      "to talk loudly and enthusiastically about something in order to praise it",
+      "a person who sells or advertises things in a loud and annoying way",
+      "to solicit customers or business in a brazenly aggressive manner"
+    ],
+    "wane": ["to decrease in amount or intensity", "to decline or dwindle"]
+  },
+  "Group 9": {
+    "boorish": ["rude and unfriendly", "lacking refinement or manners"],
+    "brook": "a small natural stream of water",
+    "circumspect": "cautious and careful in one's actions and words",
+    "comity": "A state of friendship and harmony between individuals or nations",
+    "commensurate": "corresponding in size or amount; proportionate",
+    "cordial": [
+      "warm and friendly in manner",
+      "showing or feeling genuine and sincere affection or fondness",
+      "relating to or used in harmonious and polite social interactions"
+    ],
+    "deleterious": "having a harmful or unpleasant effect",
+    "dichotomy": "A division or contrast between two things that are or are represented as being opposed or entirely different.",
+    "edify": [
+      "to instruct or improve someone's mind or character",
+      "to uplift or enlighten someone",
+      "to build or construct something"
+    ],
+    "elicit": [
+      "to draw or bring out (a response, reaction, or piece of information)",
+      "to provoke or precipitate (an action, emotion, or condition)"
+    ],
+    "erudite": [
+      "having or showing knowledge that is gained from reading and studying",
+      "having a deep understanding and appreciation of literature and the arts"
+    ],
+    "fecund": [
+      "producing a large amount of fruit or vegetation",
+      "highly fertile",
+      "having a strong ability to produce new ideas or concepts"
+    ],
+    "feeble": [
+      "weak or lacking physical strength or power",
+      "lacking firmness or intensity of emotion or character",
+      "lacking brightness or intensity of color or light"
+    ],
+    "felicitous": [
+      "well-suited or apt in a particular situation",
+      "expressing congratulations or good wishes",
+      "having or characterized by a well-chosen or apt quality"
+    ],
+    "forbear": [
+      "to refrain from or stop oneself from doing something",
+      "to treat with indulgence or leniency",
+      "an ancestor"
+    ],
+    "haphazard": [
+      "lacking a regular plan or system",
+      "random and unpredictable"
+    ],
+    "hodgepodge": [
+      "a mixture of different things",
+      "a confused or disorganized collection of things"
+    ],
+    "impede": [
+      "hinder or obstruct the progress of",
+      "delay or prevent something by taking action"
+    ],
+    "impetuous": "acting or done quickly and impulsively, without careful thought or consideration",
+    "irascible": "prone to outbursts of temper; easily irritated",
+    "mercenary": "A person who is paid to fight in an army of a country other than their own",
+    "meticulous": "Having or showing a great deal of care and preciseness in one's work or actions",
+    "mordant": [
+      "having a sharp, caustic quality",
+      "bitingly critical or sarcastic",
+      "used in dyeing to fix colors"
+    ],
+    "outstrip": [
+      "surpass or exceed something in amount or intensity",
+      "to go beyond or exceed (a limit, expectation, etc.)"
+    ],
+    "precarious": [
+      "Hazardously unstable or insecure",
+      "Uncertain or unpredictable"
+    ],
+    "quirky": ["unconventional", "unusual", "idiosyncratic"],
+    "repudiate": [
+      "to refuse to accept or acknowledge something as true or valid",
+      "to reject or disown something or someone",
+      "to deny or renounce a belief or principle"
+    ],
+    "tact": "a keen sense of what to say or do in order to avoid giving offense or to achieve a desired effect",
+    "trifling": ["of little importance or value", "frivolous", "insignificant"],
+    "turbulent": [
+      "characterized by turmoil or unrest",
+      "characterized by violent or unsteady motion of a fluid or gas"
+    ]
+  },
+  "Group 8": {
+    "accentuate": "to give emphasis or prominence to something",
+    "conjectural": "based on guesswork or speculation rather than on certain knowledge",
+    "convivial": " Friendly and enjoyable; characterized by or indicating a pleasant and social atmosphere",
+    "decadent": [
+      "characterized by or reflecting a state of moral or cultural decline",
+      "characterized by excessive indulgence in luxury or pleasure"
+    ],
+    "egregious": [
+      "conspicuously and outrageously bad or reprehensible",
+      "exceptional or remarkable in a very bad way"
+    ],
+    "evanescent": "fleeting or transitory",
+    "flamboyant": [
+      "characterized by a bold, vibrant, and often flashy style",
+      "describe someone or something that is colorful and noticeable"
+    ],
+    "forestall": [
+      "to prevent or delay something from happening",
+      "to take action in order to prevent a problem or difficulty"
+    ],
+    "gainsay": ["to deny or contradict", "to speak against"],
+    "galvanize": "to shock or excite someone into taking action",
+    "indiscriminate": [
+      "lacking discernment or distinction",
+      "unbiased or impartial",
+      "unrestricted or unselective in scope or activity"
+    ],
+    "innocuous": "Harmless or innocent",
+    "mundane": "dull and ordinary; lacking interest or excitement",
+    "nettlesome": ["causing irritation or annoyance", "troublesome", "vexing"],
+    "nullify": "to make something, especially a law or agreement, no longer valid or effective",
+    "obviate": "to make something unnecessary or avoid something",
+    "oust": "remove from a position of power or authority",
+    "palpable": "capable of being touched or felt",
+    "perfidy": ["disloyalty", "treachery"],
+    "profuse": [
+      "producing a great abundance of something",
+      "characterized by excessive or lavish provision or display"
+    ],
+    "pugnacious": [
+      "-ready to fight or argue, aggressive",
+      "having a strong inclination to fight or quarrel"
+    ],
+    "sagacious": "having keen discernment and good judgment",
+    "sanguine": [
+      "cheerful and optimistic",
+      "relating to or consisting of blood",
+      "having a healthy reddish color"
+    ],
+    "scant": ["barely sufficient or adequate", "lacking in amount or quality"],
+    "skullduggery": ["trickery", "deceit", "fraud"],
+    "trivial": [
+      "of little importance or value",
+      "lacking seriousness or profundity"
+    ],
+    "utilitarian": "relating to or concerned with the doctrine of utilitarianism, which is the belief that actions are right if they are useful for the benefit of the majority",
+    "vapid": [
+      "lacking sparkle or excitement",
+      "uninteresting",
+      "stupid or foolish"
+    ],
+    "momentary": "lasting for a very short time",
+    "omnipresent": "present everywhere at the same time"
+  },
+  "Group 7": {
+    "appease": "to make someone or something pleased or satisfied",
+    "arbitrary": [
+      "Determined by chance rather than according to a set plan or rules",
+      "Based on or determined by individual preference or whim rather than by a fair, objective, or rational process"
+    ],
+    "archaic": "belonging to an earlier period; no longer in common use; old-fashioned",
+    "clamorous": [
+      "noisy and loud",
+      "demanding attention in a loud and persistent way"
+    ],
+    "dearth": "a scarcity or lack of something",
+    "explicable": "Capable of being explained or interpreted",
+    "hyperbole": [
+      "a figure of speech that involves an exaggeration used for emphasis or effect",
+      "an extravagant statement or claim not meant to be taken literally"
+    ],
+    "indefatigable": "untiring and unwearied in effort or exertion",
+    "indolent": "Wanting to avoid activity or exertion; lazy",
+    "insular": [
+      "relating to or characteristic of an island",
+      "narrow-minded and provincial",
+      "isolated or detached from others"
+    ],
+    "intransigent": [
+      "unwilling to compromise or forgive",
+      "unyielding or uncompromising"
+    ],
+    "intrepid": ["fearless", "adventurous", "dauntless"],
+    "irreverent": [
+      "lacking respect for people or things that are generally taken seriously",
+      "impertinent or insolent",
+      "humorously critical or mocking"
+    ],
+    "loathe": [
+      "to feel intense dislike or hatred",
+      "to dislike or detest strongly"
+    ],
+    "malign": [
+      "to speak harmful untruths about someone",
+      "to have a harmful influence",
+      "to have or show a wish to do harm to someone"
+    ],
+    "malleable": "capable of being shaped or molded",
+    "neophyte": "a person who is new to a particular activity or profession",
+    "platitude": [
+      "a trite or commonplace remark or idea",
+      "a vague or general statement"
+    ],
+    "prescient": "having or showing a deep understanding and intelligent foresight",
+    "pristine": "completely pure or untouched",
+    "reproach": "an expression of disapproval or criticism",
+    "salubrious": [
+      "health-giving",
+      "conducive to health and well-being",
+      "pleasant and beneficial"
+    ],
+    "sanction": [
+      "approve or condone (something)",
+      "impose a penalty or punishment on (someone)"
+    ],
+    "sedulous": "diligent and persistent in effort or work",
+    "soporific": "Causing drowsiness or sleep",
+    "tendentious": [
+      "having or showing a strong inclination or prejudice, biased",
+      "intended to promote a particular point of view, argumentative or propagandistic"
+    ],
+    "immutable": "Cannot be changed or modified",
+    "plastic": [
+      "artificially made to be shaped or molded",
+      "capable of being shaped or molded",
+      "relating to or consisting of plastic materials"
+    ],
+    "robust": "Strong and healthy; vigorous",
+    "stern": [
+      "severe or strict in manner or attitude",
+      "located at or near the back of a boat or ship"
+    ]
+  },
+  "Group 6": {
+    "admonish": "to caution or reprimand someone gently but firmly",
+    "affectation": [
+      "A feigned or artificial expression of feeling or attitude",
+      "A way of speaking or behaving that is not natural, but is adopted in order to impress people"
+    ],
+    "alleviate": "to make a problem, situation, or feeling less severe or unpleasant",
+    "analogous": "having a similar function or characteristic",
+    "bolster": [
+      "to give someone or something confidence or support",
+      "a long, often cylindrical cushion or pillow, especially one used to support the human body while sleeping or resting"
+    ],
+    "chauvinistic": [
+      "excessively patriotic and lacking in critical thinking",
+      "having or expressing an aggressive and unreasonable belief in the superiority of one's own gender, group, or kind"
+    ],
+    "connoisseur": [
+      "a person who has a great deal of knowledge and appreciation of a particular subject, especially art, music, or good food"
+    ],
+    "dissemble": [
+      "to conceal one's true intentions or feelings by deceptive words or actions",
+      "to disguise or conceal (one's intentions, feelings, etc.)"
+    ],
+    "dogged": "determined; stubbornly unyielding",
+    "dupe": [
+      "a person who is easily deceived or manipulated",
+      "a duplicate or imitation of something"
+    ],
+    "empirical": "based on observation or experience",
+    "engender": "to produce or cause something to exist or happen",
+    "entitled": [
+      "having a right to something",
+      "having or showing an attitude of superiority"
+    ],
+    "pertinacious": ["holding firmly", "unyielding", "persistent"],
+    "presumptuous": [
+      "excessively proud of oneself or one's accomplishments",
+      "having or showing an attitude of unwarranted importance"
+    ],
+    "probity": "moral integrity and honesty",
+    "proliferate": [
+      "to grow or increase rapidly and abundantly",
+      "to multiply or reproduce rapidly"
+    ],
+    "specious": [
+      "plausible but incorrect or misleading",
+      "deceptively attractive"
+    ],
+    "spurious": [
+      "not genuine or sincere",
+      "false or pretended",
+      "illegitimate or unauthorized"
+    ],
+    "subvert": ["to undermine or overthrow", "to turn upside down or reverse"],
+    "timorous": ["fearful", "lacking courage", "cowardly"],
+    "tortuous": "full of twists and turns",
+    "tractable": [
+      "capable of being easily managed or controlled",
+      " capable of being easily led or persuaded",
+      "able to be solved or dealt with easily"
+    ],
+    "transient": ["lasting for a very short time", "temporary", "fleeting"],
+    "ubiquitous": "existing or being everywhere at the same time",
+    "underscore": "a horizontal line used to indicate a space or to join words or parts of a word",
+    "venal": "open to bribery; corrupt",
+    "aesthetic": [
+      "relating to the appreciation of beauty or good taste",
+      "concerned with the nature of beauty, art, and taste",
+      "pleasing the senses or mind aesthetically"
+    ],
+    "subjective": [
+      "based on or influenced by personal feelings, tastes, or opinions",
+      "dependent on the mind or on personal interpretation"
+    ],
+    "venerate": "to regard with great respect or to honor"
+  },
+  "Group 5": {
+    "aloof": "reserved or withdrawn; not friendly or forthcoming",
+    "clangor": [
+      "a loud, harsh, ringing sound",
+      "a loud, noisy outcry or clamor"
+    ],
+    "diminutive": "extremely or unusually small in size",
+    "estranged": "no longer friendly or close; having a distant or unfriendly relationship",
+    "extravagant": [
+      "exceeding what is normal or necessary in scale or amount",
+      "unreasonably high in price or amount"
+    ],
+    "frivolous": [
+      "not serious in content or attitude",
+      "lacking in seriousness or sense",
+      "carelessly wasteful"
+    ],
+    "imperious": [
+      "having or showing an attitude of superiority, being proud and demanding, having absolute power or authority"
+    ],
+    "impertinent": [
+      "not showing proper respect",
+      "impolite and rude",
+      "lacking modesty"
+    ],
+    "invasive": [
+      "tending to spread and grow rapidly, often to the detriment of the surrounding environment or native species",
+      "characterized by or involving invasion or aggression",
+      "violating someone's privacy or personal boundaries"
+    ],
+    "irresolute": ["indecisive", "wavering", "uncertain", "hesitant"],
+    "laudable": "deserving praise and admiration",
+    "lax": [
+      "not tight or firm in shape or structure",
+      "not strict or severe",
+      "not careful or thorough"
+    ],
+    "marginalize": [
+      "to treat someone or something as unimportant or peripheral",
+      "to relegate or confine to a lower or outer limit or edge"
+    ],
+    "panache": [
+      "a dashing flamboyance or confidence of style",
+      "a decorative feathery plume worn on a helmet or hat"
+    ],
+    "plodding": [
+      "walking or moving slowly and steadily",
+      "doing something in a steady and determined way, but without much imagination or enthusiasm"
+    ],
+    "prosaic": [
+      "lacking imagination or flair",
+      "written in prose rather than verse"
+    ],
+    "remedial": [
+      "intended to correct or improve something that is inadequate or defective",
+      "relating to or providing a remedy or cure for a disease or disorder"
+    ],
+    "restive": [
+      "impatient or uneasy in mind or body",
+      " dif\u00edcil de controlar o manejar"
+    ],
+    "sporadic": [
+      "occurring at irregular intervals or in scattered instances",
+      "lacking a regular or predictable pattern"
+    ],
+    "stigmatize": "to describe or brand someone or something as disgraceful or unacceptable",
+    "undermine": [
+      "to erode or destroy the foundation of something",
+      "to weaken or damage something gradually",
+      "to lessen the effectiveness or confidence of someone or something"
+    ],
+    "utterly": ["completely", "totally", "thoroughly", "wholly"],
+    "weary": ["feeling tired or exhausted", "bored or impatient"],
+    "zealous": "Having or showing enthusiastic and dedicated interest or enthusiasm",
+    "conventional": [
+      "Following established customs or rules",
+      "Traditional in style or manner",
+      "Not original or innovative"
+    ],
+    "debunk": [
+      "to expose the falseness or hollowness of",
+      "to show that something is not true or legitimate"
+    ],
+    "discernible": " Able to be seen or known",
+    "enigmatic": "mysterious or difficult to understand; ambiguous",
+    "fanciful": [
+      "not based on fact, imaginative, unrealistic",
+      "luxuriant or excessive in growth or decoration"
+    ],
+    "heterogeneous": [
+      "diverse in kind or nature",
+      "composed of different kinds of things",
+      "made up of different types of things"
+    ]
+  },
+  "Group 31": {
+    "abrogate": [
+      "to officially cancel or repeal a law or formal agreement",
+      "to take away someone's rights or privileges"
+    ],
+    "aghast": ["utterly astonished or shocked", "filled with fear or horror"],
+    "apprise": [
+      "to inform or tell someone about something",
+      "to estimate or evaluate the value of something"
+    ],
+    "beguile": [
+      "to charm or attract someone's attention",
+      "to deceive or cheat someone pleasantly",
+      "to pass time in a pleasant way"
+    ],
+    "boon": [
+      "a favor or benefit",
+      "a blessing",
+      "a valuable or desirable thing"
+    ],
+    "callous": [
+      "having an insensitive and cruel disposition",
+      "hardened and Thickened"
+    ],
+    "coddle": [
+      "treat with excessive indulgence",
+      "cook gently and slowly in liquid or steam"
+    ],
+    "crescendo": "a gradual increase in loudness or intensity",
+    "extenuating": "making something seem less severe or serious",
+    "frenetic": ["frantic", "wildly excited", "uncontrollably violent"],
+    "fringe": [
+      "a border of hairs or fibers, especially around the edge of a carpet or fabric",
+      "a part or region peripheral to or surrounding something",
+      "a group of people or things on the periphery of a larger group or area",
+      "a decorative border or edging, typically of threads or strips of fabric"
+    ],
+    "hapless": ["unfortunate", "unlucky", "destitute", " pitiful"],
+    "immaculate": [
+      "extremely clean and tidy",
+      "completely faultless or flawless",
+      "free from sin or guilt"
+    ],
+    "obfuscate": "to make something unclear or difficult to understand",
+    "ossify": "to change into bone; to become stiff or rigid",
+    "pastiche": "an artistic work in a style that imitates that of another work, artist, or period",
+    "perspicacious": [
+      "having a keen understanding and insight; able to notice and understand things that are not immediately apparent",
+      "having a strong ability to penetrate and understand complex situations"
+    ],
+    "ponderous": [
+      "slow and clumsy in movement or action",
+      "weighed down or heavily loaded",
+      "characterized by or showing a dull and labored quality of thought or expression"
+    ],
+    "recluse": "a person who lives a solitary life and tends to avoid social contact",
+    "retaliate": [
+      "to respond to an attack or insult by attacking or insulting in return",
+      "to take revenge on someone for a wrong or injury"
+    ],
+    "rhapsody": [
+      "an expression of great enthusiasm or excitement",
+      "a piece of music that is instrumental and improvisational in nature",
+      "a literary work that is poetic and expressive"
+    ],
+    "serendipitous": "happening or done by chance in a happy or useful way",
+    "shirk": [
+      "avoid or neglect (a duty or responsibility)",
+      "malinger or pretend to be ill in order to avoid work or duty"
+    ],
+    "sinecure": "a position or office that requires little or no work, especially one that provides an income",
+    "sinuous": [
+      "having many curves or bends",
+      "winding or turning in a snake-like fashion"
+    ],
+    "sordid": [
+      "unclean and repellent",
+      "morally degraded or corrupt",
+      "dirty or filthy"
+    ],
+    "stanch": [
+      "stop the flow of a liquid",
+      "to stop or check something, especially bleeding"
+    ],
+    "surfeit": [
+      "excessive indulgence in food or drink",
+      "an excessive amount of something"
+    ],
+    "ulterior": "beyond what is openly admitted or expressed; hidden",
+    "voluble": ["talkative", "loquacious", "given to fluent or incessant talk"]
+  },
+  "Group 32": {
+    "abstruse": [
+      "difficult to understand; obscure or esoteric",
+      "hard to understand; ambiguous or vague"
+    ],
+    "auxiliary": "Providing support or assistance",
+    "caricature": [
+      "a picture or drawing that exaggerates a person's features for comic effect",
+      "a distortion or exaggeration of something"
+    ],
+    "depravity": ["moral corruption", "wickedness", "degeneracy"],
+    "dilettante": [
+      "a person who cultivates an area of interest, such as the arts, without real commitment or knowledge",
+      "a dabbler in a field or activity"
+    ],
+    "effrontery": "insolent or impertinent behavior",
+    "encroach": [
+      "to enter and occupy a place or area that does not belong to you",
+      "to take something, especially gradually or stealthily, that does not belong to you"
+    ],
+    "endow": "to give someone or something a quality or ability",
+    "entreat": [
+      "to ask someone in a very polite and urgent way to do something",
+      "to make a request to someone in a respectful and sincere manner"
+    ],
+    "gregarious": ["friendly and sociable with others", "found in flocks"],
+    "indictment": "a formal statement that charges a person with a crime",
+    "indignant": "feeling or showing anger or annoyance at something that is unfair or unjust",
+    "ineluctable": ["unavoidable", "inevitable", "unescapable"],
+    "inquisitive": [
+      "having a curiosity that prompts one to investigate and learn",
+      "given to examination or investigation"
+    ],
+    "latitude": "Angular distance north or south of the equator",
+    "levity": [
+      "a feeling of lightheartedness and freedom from serious concerns",
+      "a lack of seriousness or solemnity",
+      "a disposition to jest or trifle"
+    ],
+    "malevolent": "having or showing a wish to do harm to someone",
+    "mediate": [
+      "to settle or resolve disputes or differences between two or more parties",
+      "to act as an intermediary or a go-between in a dispute or negotiation",
+      "to have an effect or influence on something or someone"
+    ],
+    "occlude": [
+      "to stop something from being seen or to block the view of it",
+      "to block or close a passage or an opening",
+      "to prevent something such as a tooth from functioning properly"
+    ],
+    "pacify": [
+      "to make someone or something calm or peaceful",
+      "to placate or appease someone by giving them what they want"
+    ],
+    "paragon": "a model of excellence or perfection",
+    "patronize": [
+      "to treat in a condescending manner, as if giving charity",
+      "to act as a patron to; support or sponsor",
+      "to frequent as a customer"
+    ],
+    "penurious": ["excessively frugal", "stingy", "miserly"],
+    "piquant": [
+      "Having a pleasantly sharp or appetizing flavor",
+      "Having a biting or attractive quality"
+    ],
+    "rampant": "uncontrollably widespread or prevalent",
+    "remote": [
+      "far away in distance",
+      "not directly connected or accessible",
+      "controlled or operated from a distance"
+    ],
+    "reprobate": [
+      "a person who is considered to be worthless or of bad character",
+      "a person who is rejected by God or is considered to be evil"
+    ],
+    "turbid": "cloudy or thick with suspended particles, making it difficult to see through",
+    "turgid": [
+      "swollen or distended, especially due to fluid or gas",
+      "bombastic or overly elaborate in language or style"
+    ],
+    "vacuous": "lacking intelligence or thought"
+  }
+}
